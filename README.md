@@ -1,27 +1,24 @@
-# Prompt Engineering
+# Design Framework - An Exploration into Formulaic appearance. 
 
-# Rajan Selvan's AI Playground
+{
+  "prompt": "Given the design axioms derived from a Jony Ive-inspired philosophy and their mathematical representations, integrate these axioms to generate a full, clickable index.html for an optimal landing page. The axioms and their formulas are:
 
-## What You'll Discover
+1. **Authenticity**: \( M = T \)
+2. **Essentialism**: \( D = E + S \)
+3. **Intuitive Interaction**: \( I = D_f \)
+4. **Fluid Dynamics**: \( U = R_{nat} \)
+5. **Harmonic Proportions**: \( B = \frac{S + C}{2} \)
+6. **Embrace the Void**: \( W = C \times A \)
+7. **Tangible Digitality**: \( V = R \times F \)
+8. **Narrative Motion**: \( A = S \times T \)
+9. **Seamless Adaptation**: \( E_1 = E_2 \)
+10. **Inclusive Craft**: \( D = U_{all} \)
+11. **Empathetic Understanding**: \( E = D_p \times U \)
+12. **Effortless Performance**: \( P = S - V \)
+13. **Conversational Feedback**: \( F = U_{engage} \times C \)
+14. **Inspired Calls**: \( CTA = E_e \times A \)
+15. **Unified Vision**: \( G = E_1 \times E_2 \)
 
-- **Prompt Templates**: Explore a variety of templates designed to initiate AI-driven applications. From chatbots to content generation, these prompts are versatile and powerful.
+Given these axioms, generate a landing page HTML code that encompasses all the above principles, ensuring each axiom is reflected in the design and functionality. The HTML should be a representation of these axioms optimized for a quality user experience."
 
-- **Interactive Conversations**: Discover prompts that enable dynamic and engaging interactions with AI models. Whether you enjoy creative storytelling or complex problem-solving, you're in for a unique experience.
-
-- **System Prompts**: Dive into system prompts, customized to trigger specific AI behaviors and generate structured content.
-
-## How to Use
-
-### Copy and paste the JSON to the "System" section of Playground (or paste it inside your ChatGPT window)
- ![sharing prompts](https://github.com/rjslvn/Prompt-Engineering/assets/8602178/cd3406fe-d963-4627-970b-94b39cd12339)
-
-
-This playground is an open canvas, and I encourage you to join me in exploring the potential of AI. Whether you have a prompt to share, improvements to suggest, or ambitious ideas to bring to life, your contributions are not just welcome but celebrated. Together, we can unleash the full potential of AI.
-
-## License
-
-This repository is a gift to the world, and it's licensed under the **Selvan License**. Feel free to explore, learn, and innovate. But always remember, with great AI comes great responsibility.
-
----
-
-© 2023 Rajan Selvan. All rights reserved.
+}
