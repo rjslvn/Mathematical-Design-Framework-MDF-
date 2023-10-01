@@ -1,8 +1,12 @@
-# Design Framework - An Exploration into Formulaic appearance. 
+# Design Framework - An Exploration into formulaic appearance -- an engineering interpretation of what a "good website looks like."
 
-{
-  "prompt": "Given the design axioms derived from a Jony Ive-inspired philosophy and their mathematical representations, integrate these axioms to generate a full, clickable index.html for an optimal landing page. The axioms and their formulas are:
 
+We want to take the abstract terms below and convey practical (fluid, css, 2:3 page view) format that's pleasing to the eye. 
+  
+
+"prompt": "Given the design axioms derived from a Jony Ive-inspired philosophy and their mathematical representations, integrate these axioms to generate a full, clickable index.html for an optimal landing page. The axioms and their formulas are:
+------
+\
 1. **Authenticity**: \( M = T \)
 2. **Essentialism**: \( D = E + S \)
 3. **Intuitive Interaction**: \( I = D_f \)
@@ -20,5 +24,9 @@
 15. **Unified Vision**: \( G = E_1 \times E_2 \)
 
 Given these axioms, generate a landing page HTML code that encompasses all the above principles, ensuring each axiom is reflected in the design and functionality. The HTML should be a representation of these axioms optimized for a quality user experience."
+\
+------
 
-}
+
+Author: Rajan Selvan
+Date: September 29th, 2023
