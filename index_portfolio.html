@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Data Scientist Portfolio</title>
+  <!-- Tailwind CSS CDN -->
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <!-- Bootstrap CSS CDN -->
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    :root {
+      --main-bg-color: #e0e5ec;
+      --neumorphic-shadow: 14px 14px 20px #cbced1, -14px -14px 20px #ffffff;
+    }
+    body {
+      background: var(--main-bg-color);
+    }
+    .neumorphic {
+      box-shadow: var(--neumorphic-shadow);
+      border-radius: 15px;
+    }
+    #projects {
+      display: flex;
+      flex-wrap: wrap;
+    }
+  </style>
+</head>
+<body>
+  <header class="bg-blue-200 text-white p-4 neumorphic">
+    <h1>John Doe, Data Scientist</h1>
+  </header>
+  <main class="p-4">
+    <!-- About Me -->
+    <section id="about" class="space-y-4 neumorphic p-4">
+      <h2>About Me</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+    </section>
+    
+    <!-- Projects -->
+    <section id="projects" class="space-y-4 neumorphic p-4">
+      <h2>Projects</h2>
+      <div class="project-card bg-white p-4 rounded shadow">
+        <h3>Project 1</h3>
+        <p>Lorem ipsum dolor sit amet.</p>
+      </div>
+    </section>
+    
+    <!-- Skills -->
+    <section id="skills" class="space-y-4 neumorphic p-4">
+      <h2>Skills</h2>
+      <ul>
+        <li>Data Analysis</li>
+        <li>Machine Learning</li>
+      </ul>
+    </section>
+    
+    <!-- Contact -->
+    <section id="contact" class="space-y-4 neumorphic p-4">
+      <h2>Contact</h2>
+      <p>Email: john.doe@example.com</p>
+    </section>
+  </main>
+  <footer class="bg-gray-200 text-white p-4 neumorphic">
+    <p>Copyright 2023</p>
+  </footer>
+  <script>
+    // Reaction-heavy JavaScript here
+  </script>
+  <!-- Bootstrap JS CDN -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
